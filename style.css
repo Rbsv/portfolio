@@ -103,8 +103,9 @@ header p {
 }
 
 .download-btnheader {
- 
-  margin-top: 2em;
+  position: absolute;
+  margin-top: .3em;
+  margin-left: -4.5%;
   text-align: center;
   background: linear-gradient(135deg, #ee54c0, #e793c6);
   color: white;
