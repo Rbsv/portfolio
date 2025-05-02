@@ -104,11 +104,11 @@ header p {
 
 .download-btnheader {
  
-  margin-top: 1em;
+  margin-top: 2em;
   text-align: center;
   background: linear-gradient(135deg, #ee54c0, #e793c6);
   color: white;
-  padding: 0.8rem .8rem;
+  padding: 0.6rem .7rem;
   font-weight: 600;
   border-radius: 10px;
   text-decoration: none;
