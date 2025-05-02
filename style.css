@@ -102,6 +102,24 @@ header p {
   transition: 0.3s;
 }
 
+.download-btnheader {
+ 
+  margin-top: 1em;
+  text-align: center;
+  background: linear-gradient(135deg, #ee54c0, #e793c6);
+  color: white;
+  padding: 0.8rem .8rem;
+  font-weight: 600;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.download-btnheader:hover {
+  background:linear-gradient(135deg, #e793c6, #ee54c0);
+  transition:  0.3s ease;
+}
+
 .download-btn:hover {
   background:linear-gradient(135deg, #811bd5, #a82cc7);
   transition:  0.3s ease;
